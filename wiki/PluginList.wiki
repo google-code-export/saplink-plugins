@@ -6,13 +6,14 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
 = SAPlink Plugins =
 
 == Released ==
-  * [http://code.google.com/p/saplink-plugins/downloads/list BSP]
-  * [http://code.google.com/p/saplink-plugins/downloads/list BSP Extensions]
-  * [http://code.google.com/p/saplink-plugins/downloads/list DDic]
-  * [http://code.google.com/p/saplink-plugins/downloads/list PDF Forms]
-  * [http://code.google.com/p/saplink-plugins/downloads/list Smartforms]
-  * [http://code.google.com/p/saplink-plugins/downloads/list Function Groups]
-  * [http://code.google.com/p/saplink-plugins/downloads/list Message Class]
+Click [http://code.google.com/p/saplink-plugins/downloads/list here] to view all downloads for released plugins
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=bsp&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=bsp&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP Extensions]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ddic&colspec=Filename+Summary+Uploaded+Size+DownloadCount DDic]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=pdf&colspec=Filename+Summary+Uploaded+Size+DownloadCount PDF Forms]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=smarforms&colspec=Filename+Summary+Uploaded+Size+DownloadCount Smartforms]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=function+group&colspec=Filename+Summary+Uploaded+Size+DownloadCount Function Groups]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=message&colspec=Filename+Summary+Uploaded+Size+DownloadCount Message Class]
   * [http://variant.ch/misc/saplink/ XSLT]
 
 == Alpha ==
