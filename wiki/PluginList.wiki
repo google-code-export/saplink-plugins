@@ -16,10 +16,9 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
   * [http://variant.ch/misc/saplink/ XSLT]
 
 == Alpha ==
-  * [http://saplink.googlecode.com/svn/trunk/Plugins/ABAP%20Web%20Dynpro/ ABAP Web Dynpro]
+  * [http://saplink-plugins.googlecode.com/svn/trunk/ABAP%20Web%20Dynpro/ ABAP Web Dynpro]
   * [http://saplink-bw.googlecode.com/svn/trunk/ BI Infocube]
   * [http://saplink-bw.googlecode.com/svn/trunk/ BI ODS]
-
 
 
 
