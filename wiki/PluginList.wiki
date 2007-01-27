@@ -7,13 +7,13 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
 
 == Released ==
 Click [http://code.google.com/p/saplink-plugins/downloads/list here] to view all downloads for released plugins
-  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=bsp&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP]
-  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=bsp+extension&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP Extensions]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wapa&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wtag&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP Extensions]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ddic&colspec=Filename+Summary+Uploaded+Size+DownloadCount DDic]
-  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=pdf&colspec=Filename+Summary+Uploaded+Size+DownloadCount PDF Forms]
-  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=smartform&colspec=Filename+Summary+Uploaded+Size+DownloadCount Smartforms]
-  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=function+group&colspec=Filename+Summary+Uploaded+Size+DownloadCount Function Groups]
-  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=message+class&colspec=Filename+Summary+Uploaded+Size+DownloadCount Message Class]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sfpf&colspec=Filename+Summary+Uploaded+Size+DownloadCount PDF Forms]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ssfo&colspec=Filename+Summary+Uploaded+Size+DownloadCount Smartforms]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=fugr&colspec=Filename+Summary+Uploaded+Size+DownloadCount Function Groups]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=msag&colspec=Filename+Summary+Uploaded+Size+DownloadCount Message Class]
   * [http://variant.ch/misc/saplink/ XSLT]
 
 == Alpha ==
@@ -21,7 +21,6 @@ Click [http://code.google.com/p/saplink-plugins/downloads/list here] to view all
     _Note: The ABAP web dynpro requires the latest development version of the core [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk SAPlink class].  Without updating first, you will get an error message during plugin install regarding a missing PRESERVEVERSION flag. You can [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk download] and upgrade the core SAPlink class via SAPlink._
   * [http://saplink-bw.googlecode.com/svn/trunk/ BI Infocube]
   * [http://saplink-bw.googlecode.com/svn/trunk/ BI ODS]
-
 
 
 
