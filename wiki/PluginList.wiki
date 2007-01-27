@@ -16,9 +16,12 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
   * [http://variant.ch/misc/saplink/ XSLT]
 
 == Alpha ==
-  * [http://saplink-plugins.googlecode.com/svn/trunk/ABAP%20Web%20Dynpro/ ABAP Web Dynpro]
+  * [http://saplink-plugins.googlecode.com/svn/trunk/ABAP%20Web%20Dynpro/ ABAP Web Dynpro] 
+    _Note: The ABAP web dynpro requires the latest development version of the core [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk SAPlink class].  Without updating first, you will get an error message during plugin install regarding a missing PRESERVEVERSION flag. You can [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk download] and upgrade the core SAPlink class via SAPlink._
   * [http://saplink-bw.googlecode.com/svn/trunk/ BI Infocube]
   * [http://saplink-bw.googlecode.com/svn/trunk/ BI ODS]
+
+
 
 
 
